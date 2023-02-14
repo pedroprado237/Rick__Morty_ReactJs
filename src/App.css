@@ -1,0 +1,34 @@
+.characters {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.characters li {
+  display: inline-block;
+  width: 200px;
+  background: rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  padding: 20px;
+  margin: 20px;
+  text-align: center;
+}
+.characters img {
+  width: 100%;
+  border-radius: 50%;
+}
+
+.modal {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  padding: 20px;
+  background: #fff;
+}
+.close {
+  background: red;
+  display: inline-block;
+  color: #fff;
+  float: right;
+}
