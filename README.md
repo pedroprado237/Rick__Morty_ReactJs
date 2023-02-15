@@ -1,6 +1,4 @@
-# Aula 2
-
-Aula 2 da disciplina de Desenvolvimento de Software para Web. Criamos um script React que lista os personagens do Rick and Morty.
+## Um script React que lista os personagens do Rick and Morty.
 
 ## Comandos
 
